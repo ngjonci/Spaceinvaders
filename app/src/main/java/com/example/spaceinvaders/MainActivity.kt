@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 /*
-TEST
+TEST1
  */
 class MainActivity : AppCompatActivity() {
 
